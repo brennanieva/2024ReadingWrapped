@@ -1,0 +1,293 @@
+{
+  "booksPerMonth": {
+    "April": 6,
+    "August": 5,
+    "December": 4,
+    "February": 7,
+    "January": 11,
+    "July": 11,
+    "June": 4,
+    "March": 7,
+    "May": 15,
+    "November": 4,
+    "October": 3,
+    "September": 2
+  },
+  "topAuthors": [
+    {
+      "Author": "Rick Riordan",
+      "Title Count": 7
+    },
+    {
+      "Author": "Alice Oseman",
+      "Title Count": 6
+    },
+    {
+      "Author": "R. F. Kuang",
+      "Title Count": 4
+    },
+    {
+      "Author": "Jesse Armstrong",
+      "Title Count": 4
+    },
+    {
+      "Author": "Stephen Fry",
+      "Title Count": 3
+    },
+    {
+      "Author": "Becky Chambers",
+      "Title Count": 3
+    },
+    {
+      "Author": "Jennifer Saint",
+      "Title Count": 2
+    },
+    {
+      "Author": "Madeline Miller",
+      "Title Count": 2
+    },
+    {
+      "Author": "Stuart Reges & Marty Stepp",
+      "Title Count": 1
+    },
+    {
+      "Author": "Selby Wynn Schwartz",
+      "Title Count": 1
+    }
+  ],
+  "firstBook": {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "timestamp": "2023-09-22T16:22:03"
+  },
+  "lastBook": {
+    "title": "Atalanta",
+    "author": "Jennifer Saint",
+    "timestamp": "2024-02-22T07:00:05"
+  },
+  "seriesWithMostBooks": {
+    "series": "Percy Jackson and the Olympians",
+    "count": 6
+  },
+  "seriesWithLeastBooks": {
+    "series": "Monk & Robot",
+    "count": 2
+  },
+  "totalThicknessIn": 116.69000000000001,
+  "totalThicknessFt": 9.724166666666667,
+  "totalWidthIn": 463.8500000000001,
+  "totalWidthFt": 38.654166666666676,
+  "totalHeightIn": 673.67,
+  "totalHeightFt": 25740.429166666665,
+  "totalHeightMiles": 4.875081281565656,
+  "totalHeightSpaceNeedles": 42.546163911845724,
+  "totalHeight10k": 0.7850372434083182,
+  "longestBookRead": [
+    {
+      "Title": "Complete Works of Plato",
+      "Author": "Plato & John M. Cooper & D. S. Hutchinson",
+      "Pages": 1848
+    },
+    {
+      "Title": "A Little Life: A Novel",
+      "Author": "Hanya Yanagihara",
+      "Pages": 832
+    },
+    {
+      "Title": "Metamorphoses",
+      "Author": "Ovid",
+      "Pages": 768
+    },
+    {
+      "Title": "The Dragon Republic",
+      "Author": "R. F. Kuang",
+      "Pages": 672
+    },
+    {
+      "Title": "The Will of the Many",
+      "Author": "James Islington",
+      "Pages": 640
+    },
+    {
+      "Title": "The Burning God",
+      "Author": "R. F. Kuang",
+      "Pages": 640
+    },
+    {
+      "Title": "The Iliad of Homer",
+      "Author": "Richmond Lattimore & Homer",
+      "Pages": 608
+    },
+    {
+      "Title": "Clytemnestra: A Novel",
+      "Author": "Costanza Casati",
+      "Pages": 582
+    },
+    {
+      "Title": "The Secret History",
+      "Author": "Donna Tartt",
+      "Pages": 576
+    },
+    {
+      "Title": "Babel: Or the Necessity of Violence",
+      "Author": "R. F. Kuang",
+      "Pages": 560
+    }
+  ],
+  "shortestBookRead": [
+    {
+      "Title": "The Little Prince",
+      "Author": "Antoine de Saint-Exupery",
+      "Pages": 96
+    },
+    {
+      "Title": "Days at the Morisaki Bookshop",
+      "Author": "Satoshi Yagisawa",
+      "Pages": 160
+    },
+    {
+      "Title": "A Psalm for the Wild-Built",
+      "Author": "Becky Chambers",
+      "Pages": 160
+    },
+    {
+      "Title": "A Prayer for the Crown-Shy: A Monk and Robot Book",
+      "Author": "Becky Chambers",
+      "Pages": 160
+    },
+    {
+      "Title": "If Cats Disappeared From the World: A Novel",
+      "Author": "Genki Kawamura",
+      "Pages": 176
+    },
+    {
+      "Title": "I Want to Die but I Want to Eat Tteokbokki: A Memoir",
+      "Author": "Baek Sehee",
+      "Pages": 208
+    },
+    {
+      "Title": "Nick and Charlie",
+      "Author": "Alice Oseman",
+      "Pages": 208
+    },
+    {
+      "Title": "This Is How You Lose the Time War",
+      "Author": "Amal El-Mohtar & Max Gladstone",
+      "Pages": 224
+    },
+    {
+      "Title": "Play It as It Lays",
+      "Author": "Joan Didion",
+      "Pages": 240
+    },
+    {
+      "Title": "Crying in H Mart",
+      "Author": "Michelle Zauner",
+      "Pages": 245
+    }
+  ],
+  "genreCounts": [
+    {
+      "Genre": "Fiction",
+      "Count": 42
+    },
+    {
+      "Genre": "Greek Mythology",
+      "Count": 25
+    },
+    {
+      "Genre": "YA",
+      "Count": 16
+    },
+    {
+      "Genre": "Queer",
+      "Count": 9
+    },
+    {
+      "Genre": "Classics",
+      "Count": 8
+    },
+    {
+      "Genre": "Memoir",
+      "Count": 6
+    },
+    {
+      "Genre": "Script",
+      "Count": 5
+    },
+    {
+      "Genre": "Fantasy",
+      "Count": 4
+    },
+    {
+      "Genre": "Autobiography",
+      "Count": 4
+    },
+    {
+      "Genre": "Short Story",
+      "Count": 4
+    },
+    {
+      "Genre": "Graphic Novel",
+      "Count": 4
+    },
+    {
+      "Genre": "Textbook",
+      "Count": 4
+    },
+    {
+      "Genre": "Technology",
+      "Count": 4
+    },
+    {
+      "Genre": "Sci-Fi",
+      "Count": 3
+    },
+    {
+      "Genre": "Mystery",
+      "Count": 2
+    },
+    {
+      "Genre": "",
+      "Count": 2
+    },
+    {
+      "Genre": "Mathematical statistics",
+      "Count": 1
+    },
+    {
+      "Genre": "Poetry",
+      "Count": 1
+    },
+    {
+      "Genre": "Young Adult Fiction",
+      "Count": 1
+    },
+    {
+      "Genre": "Philosophy",
+      "Count": 1
+    },
+    {
+      "Genre": "Self Help",
+      "Count": 1
+    }
+  ],
+  "totalSpent": 1215.78,
+  "mostExpensiveBook": {
+    "title": "Building Java Programs: A Back to Basics Approach / Edition 5",
+    "author": "Stuart Reges & Marty Stepp",
+    "price": 205.89
+  },
+  "leastExpensiveBook": {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "price": 0.0
+  },
+  "averageSpentPerBook": 15.389620253164557,
+  "totalBooks": 79,
+  "totalAuthors": 56,
+  "totalSeries": 6,
+  "totalGenres": 21,
+  "totalBooksRead": 68,
+  "totalBooksNotRead": 11
+}
